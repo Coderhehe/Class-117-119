@@ -1,0 +1,40 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px blue;
+}
+
+.heading_div{
+    float: none;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 20px;
+    color: yellowgreen;
+    box-shadow: 5px 5px 5px green;
+}
+
+.heading_div2 {
+    font-size: 18px;
+}
+
+.resultoa{
+box-shadow: 5px 5px 5px blue;
+font-size: 20px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: blue;
+    color: yellow;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+canvas{
+   margin-top: 175px;
+   border-radius: 20px;
+   border: 3px solid red; 
+   box-shadow: 5px 5px 5px whitesmoke;
+   
+}
